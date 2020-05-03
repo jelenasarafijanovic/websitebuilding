@@ -1,0 +1,27 @@
+.paragraph {
+    margin-top: 104px;
+    margin-left: 220px;
+    background-color: green;
+    height: 35px;
+    width:450px;
+}
+
+.col-5 {
+    font-size: 1.5em;
+}
+ .heading2 {
+    font-size: 1em;
+}
+
+.footer-link {
+    font-size: 0.8em;
+}
+
+.copy {
+    background-color: black;
+}
+
+.menu {
+    width: 20px;
+}
+
